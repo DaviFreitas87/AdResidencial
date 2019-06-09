@@ -9703,7 +9703,6 @@ textarea.form-control {
 
 .rawer {
   color: red;
-  text-shadow: 0 0 6px;
   cursor: pointer;
 }
 
@@ -9711,6 +9710,7 @@ textarea.form-control {
   animation: pulse 0.7s infinite;
   display: inline-block;
   animation-direction: alternate;
+  text-shadow: 0 0 4px;
   -webkit-animation-name: pulse;
   animation-name: pulse;
 }
