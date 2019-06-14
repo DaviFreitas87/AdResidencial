@@ -7985,7 +7985,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #726b6bfd; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -7996,7 +7996,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #c7b198; }
+  color: #a76111; }
   a:hover, a:focus {
     text-decoration: none;
     color: #c7b198;
